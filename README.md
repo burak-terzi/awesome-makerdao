@@ -721,6 +721,7 @@ _Notice: The Voting Portal is undergoing an update._
 
 #### Mobile \| Desktop Wallets
 
+* [Arctic Wallet](https://arcticwallet.io)
 * [Atomic Wallet](https://atomicwallet.io/)
 * [Exodus](https://www.exodus.io/)
 * [Guarda Wallet](https://guarda.com/)
@@ -814,6 +815,7 @@ _Notice: The Voting Portal is undergoing an update._
 
 #### Non-Custodial Exchanges
 
+* [Arctic Wallet](https://arcticwallet.io)
 * [Changelly](https://changelly.com/)
 * [DDex](https://ddex.io/spot/ETH-DAI)
 * [DeversiFi](https://trustless.ethfinex.com/DAIETH)
